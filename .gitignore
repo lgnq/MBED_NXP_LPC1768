@@ -1,0 +1,9 @@
+
+__pycache__/toolchain.cpython-38.pyc
+.sconsign.dblite
+build/gcc/Src/main.o
+build/gcc/Src/startup_LPC17xx.o
+discovery.bin
+discovery.elf
+discovery.hex
+rt-thread.map
